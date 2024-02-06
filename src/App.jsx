@@ -9,7 +9,7 @@ function App() {
       <h1>Cloud Computing</h1>
       <h3>Complexity++;</h3>
       <p>
-          Presentation by Joy and Joel
+          Presentation by Joy and Joel. 
         </p>
       <div className="card">
         
